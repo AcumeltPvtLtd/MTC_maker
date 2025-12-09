@@ -1,0 +1,81 @@
+1. Can the company freeze your account to stop you from leaving?
+
+The short answer is NO.
+Once the salary is credited to your account, the money belongs to you. No company (not even the biggest IT firms) has the legal authority to instruct a bank to "freeze" an employee's personal bank account to prevent them from resigning. That would be illegal.
+
+However, there is a bureaucratic reason involving the company:
+When a company opens a "Salary Account" for you in bulk (along with other new joiners), they often open it as a "Partial KYC" or "Small Account" initially so you can get your account number quickly. The bank then expects the physical account opening forms (signed by you) to reach the branch within 30-45 days.
+
+    The likely reality: Your company's HR or Admin team might have been slow to send your physical signed forms to the bank. Because the bank didn't receive the hard copies within ~45 days (a month + a week), the bank's system automatically triggered a "Debit Freeze."
+
+    Conclusion: It is not a trap to keep you; it is likely just paperwork incompetence between the company and the bank.
+
+2. Why do you think it's not KYC (but it probably is)?
+
+You mentioned you don't think it is KYC-related. However, in banking, there are two types of KYC:
+
+    E-KYC (Instant): Allows you to open the account.
+
+    Central KYC (Full): Required to keep the account running past 30-40 days or to withdraw large amounts.
+
+Since the official Yes Bank app is also showing the freeze (not just Google Pay), this confirms a "Debit Freeze" at the bank level.
+3. DIY Solutions (What you can do right now)
+
+Since you cannot use the App, you must try these alternative channels to diagnose and potentially fix it:
+
+Step A: Try "Net Banking" via a Browser (Not the App)
+The mobile app often gives generic error messages. The website is more detailed.
+
+    Open Chrome/Edge on your laptop or phone.
+
+    Go to the Yes Bank Retail NetBanking page.
+
+    Login.
+
+    Look at the dashboard. If there is a red banner or a specific alert saying "Debit Freeze due to missing signature/documents," you have your answer.
+
+    Check the "Service Requests" tab. If you see an option for "Re-KYC" or "Video KYC," click it. Completing Video KYC (available 8 AM to 8 PM) usually unfreezes the account instantly.
+
+Step B: The ATM Test
+Go to the nearest Yes Bank ATM (or any ATM).
+
+    Try to withdraw ₹100.
+
+    If it works: Your account is not fully frozen. The issue is only with "Online/Digital Channels." You may have accidentally disabled "Mobile Banking rights" or "UPI rights" in the security settings.
+
+    If it fails: This confirms a "Total Debit Freeze."
+
+Step C: Use "Yes Robot" (Chatbot)
+
+    Go to the Yes Bank website.
+
+    Look for the "Yes Robot" chat icon (usually bottom right).
+
+    Type: "Why is my account frozen?"
+
+    It will ask for your mobile number and send an OTP.
+
+    The bot can often tell you the exact "Reason Code" (e.g., "Code 20: No Debit allowed due to pending docs").
+
+Step D: Call Customer Care with the "Fraud" Trick
+Since you can't visit the branch yet, you need a human on the phone.
+
+    Call 1800 1200.
+
+    Do not choose "Savings Account" options (the waiting times are long).
+
+    Choose the option for "Report Fraud" or "Block Card."
+
+    When a human answers, immediately say: "I am unable to access my salary. My app says frozen. I am worried my account is hacked."
+
+    They will check the system. If they tell you, "Sir, your account opening form is not yet scanned in the system," then you know your company’s HR is at fault for the delay.
+
+Summary of Next Steps
+
+    Don't panic. Your money is safe. The company has not stolen it.
+
+    Login to NetBanking via a browser to see if you can do a "Video KYC".
+
+    If NetBanking fails, you must email your HR/Payroll team immediately:
+
+        "Hi Team, my salary account is frozen by the bank. The bank indicates that the account opening forms were not processed on time. Can you please confirm when my documents were sent to the branch?"
